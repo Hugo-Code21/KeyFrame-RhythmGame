@@ -24,4 +24,4 @@ KeyFrame is a rhythm game that combines piano-style play with timing challenges.
 - More songs and difficulty levels
 - Improved visuals and sound
 
-## Enjoy! 
+## Enjoy 
